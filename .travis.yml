@@ -6,6 +6,7 @@ deploy:
   bucket: "cypher-models"
   region: us-east-1
   local_dir: mallet
+  upload-dir: test
 env:
   global:
   - secure: oBaKqehY07E0JECgl7WCvRqoPtIWXFQQimPSP9uQDSuWhabh9Ojb/WdqI1AR4ZF+Oa+/2+D+oqTrlVP2qgA2AvhW0IrPpSCbmxul3/AvSmygLmQkSpcmYipL9wQOcpux69wkKJZKL3K6RcvE/4W8xJud+0EmZqJa3pr03jk9hTz1q20htIs39BXll03sdq81xMsHL/+SBYUdOzCRaoFIBm1KSqAot+sK8g5A+R1muBb3z3ToAw3EADwMmBfPqofKth8muSBK9TWEus/9lf8DNFN/9ihIF61lD4SM2Z6BWM8R7boHffJuGnQhcMR+Z3LR/6GtJiDuXn8XJMN6T69mlonaY7MS4LuS8NN9XDtmU6/KJdHKv/nStNXiQ+gv2B/mn8R+aQIk71PTnMbQQF5ckV1IN1l5MJfEY4SfhzDbURYr3reSamBxfPdRJb7lOUjCkiAjuTMxQueoVOrQmWnq8m+1GiStbLZrO+F6h5GCmuqs6ipoYj/A12XBKsvFJ/OxtdX9StHL9mRqVC2fDR+CMeNg/AUQrObgkP6eX0JFflEljZDaTm51nlhur9kDeC16B7Hl7WSuja0wWup6PvaWDo4ePM7k7TODLzSXg3EbxNmsCmHCr/yJ9vmpTXSSWXCjQ5MR8aro0soKJ2rWjCW7/bbp7kSNsRIzaiSTNOXbve8=
