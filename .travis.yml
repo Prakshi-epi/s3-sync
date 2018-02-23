@@ -3,7 +3,7 @@ install: skip
 script: skip
 deploy:
   provider: s3
-  bucket: "cypher-travis"
+  bucket: "cypher-models"
   region: us-east-1
   local_dir: mallet
   upload-dir: test
