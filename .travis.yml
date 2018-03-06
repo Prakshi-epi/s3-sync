@@ -5,7 +5,7 @@ before_deploy:
   pip install --user awscli
 deploy:
   provider: script
-  script: ~/.local/bin/aws s3 sync mallet/  s3://cyper-models/test/ --region=us-east-1 --sse aws:kms
+  script: ~/.local/bin/aws s3 sync mallet/  s3://cypher-models/test/ --region=us-east-1 --sse aws:kms
   on:
     branch: master
 env:
