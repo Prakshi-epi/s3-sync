@@ -8,7 +8,7 @@ deploy:
   local_dir: mallet
   upload-dir: test
   on:
-    branch: testbranch
+    branch: master
 env:
   global:
   - secure: KB3QxRgHN/w524vyHgOpgEwt1KRCLSlUDSzQMURUyWPN18CrK+neH0U9lyNJUugmM2hOItfaUNa3cmEnM8oCF4PQt68KbZw39puO0htsFZ5+Cj9kYqN46ABrjCeoqe6r60cYlyYVaHUmTw+3X6FC8SQpT4J6kGlY0XnG/wkIetCyVUc9JEcE+V+IQ0VlLOy3fJnO2fFdLr4EzsGHuyE69KYxCLK/UwzgRwBOct/4OYcSHGrmF3i62n8c51hOIoCOg/5wC6vSgFXZU0D8l1necN5l7SGgh7yIdV05nlOAaPfmbfd/a0Z3eYRV1bG4/TgfkLTAzoHpAmIRO30ld5bwytGFaZ53tzsQ0YMwHmXdiWGEyUE5zqlfTZJCP18bZx6LVGesFKmXXDXyGsGO4XvU2VqnQnzCcFc9yc4EDOCzDTpdHuwYKer6SDWKMpA18iW6ZMNpleRjN8EaNu037hD3ETVHTi+9OnNsYRb4kCTX1Fe9ChAmnf1VB0/WvcZ1+tHgNDwtOYbFnkeYq6nAL2Y28zFM1obsLhByV3MCGL9EMbQWadoCHVoiQWqPV491lnEF5lGsg1+o+4ixJ2N4T/U4cLIcV/1hv3zpWxZIR6WFnfa7A2RUmiGT6J8/P2dPNhRQtr/zpW8ilj3nbsRZAkgirhnFpE0Q3a6bEKz9JpHsFGE=
