@@ -1,2 +1,2 @@
 #!/bin/bash
-~/.local/bin/aws s3 sync mallet/  s3://cypher-models/test/ --region=us-east-1 --sse aws:kms
+~/.local/bin/aws s3 sync sprak/  s3://cypher-models/spark/ --region=us-east-1 --sse aws:kms
